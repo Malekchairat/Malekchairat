@@ -153,7 +153,6 @@ MLflow
 <p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
 </p>
